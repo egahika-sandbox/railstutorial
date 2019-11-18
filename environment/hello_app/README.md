@@ -25,6 +25,8 @@ config.ru	    Rackミドルウェア用の設定ファイル
 
 gemfileの変更
 bundle install
+hello_app/app/controllers/application_controller.rbにhelloアクションの追加
+config/route.rbでルーティング変更
 
 # README
 
